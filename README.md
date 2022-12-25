@@ -87,3 +87,7 @@ Hope you enjoy the game!!!
 xavave: added timer before game over, and code refactoring+ simplifications
 ![image](https://user-images.githubusercontent.com/3501675/209475511-c89daf7a-3f73-45a7-8900-cb18c31a8adb.png)
 
+known bugs:
+- sometimes need to press Y twice to restart
+- when spaceship is "teleporting" from left it looks like it goes up one row..
+
