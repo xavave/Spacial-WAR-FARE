@@ -1,0 +1,2 @@
+G:\work\Spacial-WAR-FARE\obj\x86\Debug\Spacial-WAR-FARE.csproj.AssemblyReference.cache
+G:\work\Spacial-WAR-FARE\obj\x86\Debug\Spacial-WAR-FARE.csproj.CoreCompileInputs.cache

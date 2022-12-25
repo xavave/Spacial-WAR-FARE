@@ -1,0 +1,15 @@
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\bin\Debug\net6.0\Spacial_WAR_F A R E.exe
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\bin\Debug\net6.0\Spacial_WAR_F A R E.deps.json
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\bin\Debug\net6.0\Spacial_WAR_F A R E.runtimeconfig.json
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\bin\Debug\net6.0\Spacial_WAR_F A R E.dll
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\bin\Debug\net6.0\Spacial_WAR_F A R E.pdb
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\Spacial_WAR_F A R E.csproj.AssemblyReference.cache
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\Spacial_WAR_F A R E.GeneratedMSBuildEditorConfig.editorconfig
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\Spacial_WAR_F A R E.AssemblyInfoInputs.cache
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\Spacial_WAR_F A R E.AssemblyInfo.cs
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\Spacial_WAR_F A R E.csproj.CoreCompileInputs.cache
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\Spacial_WAR_F A R E.dll
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\refint\Spacial_WAR_F A R E.dll
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\Spacial_WAR_F A R E.pdb
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\Spacial_WAR_F A R E.genruntimeconfig.cache
+G:\work\Spacial-WAR-FARE\Spacial_WAR_F A R E\obj\Debug\net6.0\ref\Spacial_WAR_F A R E.dll
